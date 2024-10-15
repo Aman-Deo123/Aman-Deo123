@@ -1,7 +1,7 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=Aman-Deo123&label=Profile%20views&color=0e75b6&style=flat" alt="Aman-Deo123" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aman+kumar+Deo;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aman+Kumar+Deo;" />
 </h1>
 
 <h3 align="center">A passionate data science enthusiast</h3>
@@ -35,8 +35,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,java,html,css,git,bootstrap,javascript" />
-    <img src="https://skillicons.dev/icons?i=opencv,nlp,scikit-learn,tensorflow,jupyter,mongodb" />
+    <img src="https://skillicons.dev/icons?i=python,java,mysql,html,css,github,bootstrap,javascript" />
+    <img src="https://skillicons.dev/icons?i=opencv,pytorch,flask,sklearn,tensorflow,jupyter,mongodb,postgres" />
     <br>
 </div>
 
