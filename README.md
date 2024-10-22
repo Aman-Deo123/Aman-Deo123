@@ -26,8 +26,6 @@
 <div align="center">
   <img width=390 src="https://leetcard.jacoblin.cool/AmanDeo4215?theme=dark&font=source_code_pro&ext=heatmap" alt="LeetCode Stats" />
 </div>
-?theme=dark&font=source_code_pro&ext=heatmap" alt="LeetCode Stats" />
-</div>
 
 
 <div align="center"> 
