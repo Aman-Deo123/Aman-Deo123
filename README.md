@@ -3,12 +3,6 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aman+Kumar+Deo;" />
 </h1>
-<h2 align="center">⚡ LeetCode Stats ⚡</h2>
-<br>
-<div align="center">
-  <img width=390 src="https://leetcard.jacoblin.cool/<AmanDeo4215>?theme=dark&font=source_code_pro&ext=heatmap" alt="LeetCode Stats" />
-</div>
-
 
 
 <h3 align="center">A passionate data science enthusiast</h3>
@@ -24,6 +18,17 @@
 ⚡ Passionate about **Hackathons** and **Open Source Contributions**
 
 </div>
+<h2 align="center">⚡ LeetCode Stats ⚡</h2>
+<br>
+<div align="center">
+  <img width=390 src="<h2 align="center">⚡ LeetCode Stats ⚡</h2>
+<br>
+<div align="center">
+  <img width=390 src="https://leetcard.jacoblin.cool/AmanDeo4215?theme=dark&font=source_code_pro&ext=heatmap" alt="LeetCode Stats" />
+</div>
+?theme=dark&font=source_code_pro&ext=heatmap" alt="LeetCode Stats" />
+</div>
+
 
 <div align="center"> 
   <a href="mailto:shwetdeo1234@gmail.com">
