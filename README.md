@@ -3,9 +3,10 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aman+Kumar+Deo;" />
 </h1>
-<h2 align="center">📊 LeetCode Stats 📊</h2>
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/<AmanDeo4215>?theme=light&font=source_code_pro&ext=activity" alt="LeetCode Stats" />
+  <a href="https://leetcode.com/AmanDeo4215>" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile" />
+  </a>
 </div>
 
 
