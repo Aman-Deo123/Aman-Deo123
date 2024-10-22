@@ -3,11 +3,12 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aman+Kumar+Deo;" />
 </h1>
+<h2 align="center">⚡ LeetCode Stats ⚡</h2>
+<br>
 <div align="center">
-  <a href="https://leetcode.com/u/AmanDeo4215" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile" />
-  </a>
+  <img width=390 src="https://leetcard.jacoblin.cool/<AmanDeo4215>?theme=dark&font=source_code_pro&ext=heatmap" alt="LeetCode Stats" />
 </div>
+
 
 
 <h3 align="center">A passionate data science enthusiast</h3>
