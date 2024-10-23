@@ -21,7 +21,7 @@
 <h2 align="center">⚡ LeetCode Stats ⚡</h2>
 <br>
 <div align="center">
-  <img width=390 src="<h2 align="center">⚡ LeetCode Stats ⚡</h2>
+<h2 align="center">⚡ LeetCode Stats ⚡</h2>
 <br>
 <div align="center">
   <img width=390 src="https://leetcard.jacoblin.cool/AmanDeo4215?theme=dark&font=source_code_pro&ext=heatmap" alt="LeetCode Stats" />
